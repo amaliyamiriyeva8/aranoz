@@ -1,0 +1,53 @@
+{
+  "aranoz": [
+    {
+      "id": 1,
+      "img": "./assets/img/product_1.png.webp",
+      "name": "One Belt Watch",
+      "description": "$100.00"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/product_2.png.webp",
+      "name": "Two Belt Watch",
+      "description": "$150.00"
+    },
+    {
+      "id": 3,
+      "img": "./assets/img/product_4.png.webp",
+      "name": "Three Belt Watch",
+      "description": "$120.00"
+    },
+    {
+      "id": 4,
+      "img": "./assets/img/product_5.png.webp",
+      "name": "Four Belt Watch",
+      "description": "$130.00"
+    },
+    {
+      "id": 5,
+      "img": "./assets/img/product_1.png.webp",
+      "name": "Five Belt Watch",
+      "description": "$180.00"
+    },
+    {
+      "id": 6,
+      "img": "./assets/img/product_2.png.webp",
+      "name": "Six Belt Watch",
+      "description": "$160.00"
+    },
+    {
+      "id": 7,
+      "img": "./assets/img/product_4.png.webp",
+      "name": "Seven Belt Watch",
+      "description": "$190.00"
+    },
+    {
+      "id": 8,
+      "img": "./assets/img/product_5.png.webp",
+      "name": " Belt Watch",
+      "description": "$170.00"
+    }
+  ],
+  "favorites": []
+}
